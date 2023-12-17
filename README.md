@@ -8,6 +8,10 @@
 
 [发起新反馈](https://github.com/VapuClient/Issue-Tracker/issues/new/choose)
 
+## 关于Windows 7
+
+Windows7已经被微软停止支持，如果你在使用Windows7任何不能注入都是合理的，但是如果注入成功游戏内崩溃仍然可以反馈，请确保使用最新显卡驱动
+
 ## 规则
 任何反馈/建议请跟随以下规则：
 反馈类型：
